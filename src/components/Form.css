@@ -1,0 +1,41 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 370px;
+}
+.form input, select{
+  width: 200px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  padding: 5px;
+  box-sizing: content-box;
+}
+.form label {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+}
+.form__description {
+  margin-bottom: 20px;
+}
+
+option {
+  font-size: 14px;
+}
+
+.form__submit-btn {
+  padding: 5px;
+  width: 60%;
+
+  max-width: 600px;
+}
+
+.form__submit-status {
+  margin-top: 5px;
+  margin-bottom: 12px;
+  font-size: 12px;
+  height: 11px;
+}
