@@ -1,3 +1,24 @@
+
+# Dish order form
+
+Formularz zamówień posiłków wykony wg. wytycznych zadania rekrutacyjnego:
+ 
+ - stworzony przy wykorzystaniu react-hook-form API, 
+ - prosta walidacja po stronie front-end,
+ - komunikacja z web API przyjmującym zamówienia,
+ - pełna validacja po stronie web API zintegrowana z validacja wbudowana w ract-hook-form.
+
+W aplikacji wykorzystuje:
+- react-hook-api,
+- usługi Firebase: hosting,
+- metodologię BEM.
+
+Zapraszam do  sprawdzenia funkcjonalności.
+
+https://dish-order-form.web.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
